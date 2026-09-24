@@ -1,0 +1,17 @@
+{
+  "createdAt": "2026-09-24T05:02:32.991540+00:00",
+  "total": 7557,
+  "mongolian": 1542,
+  "english": 6015,
+  "categories": {
+    "Үг": 6016,
+    "Зүйр үг": 78,
+    "Холбоо үг": 833,
+    "Хэлц үг": 619,
+    "Монгол ахуй": 11
+  },
+  "pagesDownloaded": 2574,
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "changes": "Wikitext markup removed; explicitly defined phrase pairs extracted; records deduplicated. Explanations not machine-translated."
+}

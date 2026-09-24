@@ -3,7 +3,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Утга — Монгол хэл ба AI",
   description:
-    "Монгол хэллэг, ёгтлол, ахуйн утгыг хиймэл оюун хэрхэн ойлгож байгааг судлах лаборатори.",
+    "Монгол үг, хэлц, зүйр үг, ёгтлол, ахуйн утга болон хэрэглээний жишээг хайх тайлбар толь.",
   robots: { index: false, follow: false },
 };
 export default function RootLayout({

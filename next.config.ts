@@ -1,6 +1,7 @@
 import type { NextConfig } from "next";
 const config: NextConfig = {
   poweredByHeader: false,
+  outputFileTracingIncludes: {"/api/search": ["./data/*.json"], "/api/explain": ["./data/*.json"]},
   allowedDevOrigins: ["terminal.local"],
   async headers() {
     return [
